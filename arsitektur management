@@ -1,0 +1,33 @@
+GitHub
+   │
+   ▼
+Railway
+   │
+   ├── Python Trading Worker
+   │
+   ├── FastAPI Health Server
+   │
+   └── PostgreSQL
+          │
+          ├── trades
+          ├── positions
+          ├── PnL
+          └── signals
+
+Alchemy
+   │
+   ├── Solana RPC
+   ├── WebSocket
+   └── Webhooks
+          │
+          ▼
+     Signal Engine
+          │
+          ▼
+      Risk Engine
+          │
+          ▼
+     Execution
+          │
+          ▼
+   Trading Wallet
