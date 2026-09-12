@@ -1,0 +1,38 @@
+memecoin-ea/
+│
+├── app/
+│   ├── main.py
+│   ├── config.py
+│   │
+│   ├── data/
+│   │   ├── alchemy.py
+│   │   ├── market.py
+│   │   └── tokens.py
+│   │
+│   ├── strategy/
+│   │   ├── scorer.py
+│   │   ├── signals.py
+│   │   └── filters.py
+│   │
+│   ├── risk/
+│   │   ├── manager.py
+│   │   └── limits.py
+│   │
+│   ├── execution/
+│   │   ├── solana.py
+│   │   └── orders.py
+│   │
+│   ├── wallet/
+│   │   └── wallet.py
+│   │
+│   └── monitoring/
+│       ├── health.py
+│       └── alerts.py
+│
+├── tests/
+│
+├── requirements.txt
+├── Dockerfile
+├── railway.json
+├── .env.example
+└── README.md
