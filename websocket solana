@@ -1,0 +1,9 @@
+ALCHEMY_API_KEY=alch_Fwn8l1qKoxhqREYG_Iay9
+ALCHEMY_RPC_URL=https://solana-mainnet.g.alchemy.com/v2/alch_Fwn8l1qKoxhqREYG_Iay9
+ALCHEMY_WS_URL=wss://solana-mainnet.streaming.alchemy.com/v2/alch_Fwn8l1qKoxhqREYG_Iay9
+
+SOLANA_NETWORK=mainnet-beta
+
+TRADING_MODE=paper
+
+WALLET_PRIVATE_KEY=nNu6An5yb3mPxjfDjYVkcxbAMkfTVGKsDNJsoZhsds8juFxs4M1WgPZeySqT6vsiN8fyJdDJdYuGbSpy1PH37tv
